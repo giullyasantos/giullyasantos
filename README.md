@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with experience
 ---
 
 ## 🎯 Career Highlights  
-- **[Redesigned the "People Who Make a Difference" website](https://peoplewhomakeadifference.org)** to improve accessibility and offer multilingual support using the Google Translate API.
+- **[Redesigned and developed the "People Who Make a Difference" website](https://peoplewhomakeadifference.org)** to improve accessibility and offer multilingual support using the Google Translate API.
 - **Built an Invoice Management System** that reduced outstanding contractor invoices by 90%, improving financial tracking accuracy with Java.  
 - **Developed a Compiler in C**, showcasing skills in low-level operations, memory management, and data structures.
 
