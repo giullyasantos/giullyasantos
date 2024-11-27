@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Giullya Santos!  
 
-Welcome to my GitHub profile! I'm a passionate software engineer with experience in building efficient and innovative solutions. My expertise lies in front-end development using React and JavaScript, but I also enjoy exploring backend development and diving into machine learning.  
+I'm a passionate Computer Science student at UCF with experience in building efficient and innovative software solutions. My expertise lies in front-end development using React and JavaScript, but I also enjoy exploring backend development and diving into machine learning.  
 
 ---
 
