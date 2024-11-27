@@ -34,13 +34,8 @@ When I'm not coding, you can find me:
 
 ---
 
-## 📊 GitHub Stats  
-![Giullya's GitHub stats](https://github-readme-stats.vercel.app/api?username=giullya&show_icons=true&theme=default)  
-
----
-
 ## 🌐 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/giullya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/giullya-souza-santos-01668a23b/)  
 
 ---
 
