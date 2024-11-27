@@ -38,5 +38,4 @@ When I'm not coding, you can find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/giullya-souza-santos-01668a23b/)  
 
 ---
-
-💡 **Pro Tip:** Check out my repositories for examples of my work. Feedback and collaboration are always welcome!
+Check out my repositories for examples of my work. Feedback and collaboration are always welcome!
