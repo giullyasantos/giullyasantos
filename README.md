@@ -1,23 +1,28 @@
-# 👋 Hi there, I'm Giullya!  
+# 👋 Hi there, I'm Giullya Santos!  
 
-Welcome to my GitHub profile! I'm a software developer with a passion for front-end development and a love for exploring new technologies. Currently, I'm diving into the world of machine learning as part of my senior design project.  
+Welcome to my GitHub profile! I'm a passionate software engineer with experience in building efficient and innovative solutions. My expertise lies in front-end development using React and JavaScript, but I also enjoy exploring backend development and diving into machine learning.  
 
 ---
 
-## 💻 What I’m Working On  
+## 💻 Current Projects  
 - 🌐 Building a **website for a wedding** and a **website for a church**.  
-- 🖥️ Working on **my portfolio website** to showcase my work and projects.  
-- 🤖 Exploring **machine learning** applications in my **Wearables Security senior design project**.  
+- 🖥️ Developing **my portfolio website** to showcase my work and projects.  
+- 🤖 Exploring **machine learning applications** in my **Wearables Security senior design project** to enhance AR/VR security.  
+
+---
+
+## 🎯 Career Highlights  
+- **Redesigned the "People Who Make a Difference" website** to improve accessibility and offer multilingual support using the Google Translate API.  
+- **Built an Invoice Management System** that reduced outstanding contractor invoices by 90%, improving financial tracking accuracy with Java.  
+- **Developed a Compiler in C**, showcasing skills in low-level operations, memory management, and data structures.
 
 ---
 
 ## 🛠️ Skills & Technologies  
-- **Frontend:** React.js  
-- **Backend:** Java  
-- **Mobile Development:** Kotlin, Android Studio  
-- **Other Interests:** Experimenting with new frameworks and tools  
-
-> More projects and skills are coming soon—stay tuned! 🚀  
+- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** Java, C, Kotlin (familiar)  
+- **Other Skills:** Git, GitHub, Data Structures, Object-Oriented Design, Sorting Algorithms, Microsoft Office  
+- **Learning:** Machine Learning, Flutter, Swift, Shopify Liquid  
 
 ---
 
@@ -39,4 +44,4 @@ When I'm not coding, you can find me:
 
 ---
 
-💡 **Pro Tip:** If you’re visiting, feel free to check out my repositories and give feedback. Collaboration is always welcome! 😊
+💡 **Pro Tip:** Check out my repositories for examples of my work. Feedback and collaboration are always welcome!
